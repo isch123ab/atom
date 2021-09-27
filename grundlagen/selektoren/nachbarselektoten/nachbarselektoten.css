@@ -1,0 +1,12 @@
+h1 + p {
+  color: green;
+  background-color: grey
+}
+p + p {
+  color: green;
+  border: solid;
+}
+h2 + p {
+  background-color: black;
+  color: white;
+}

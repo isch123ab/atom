@@ -1,0 +1,16 @@
+p {
+  background-color: grey;
+  color: white;
+}
+#large {
+  width: 800px;
+  height: 300px;
+}
+
+.medium {
+  width: 800px;
+  height: 300px;
+}
+p ~ p ~ p {
+  width: 50%;
+}

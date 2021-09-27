@@ -1,0 +1,21 @@
+body {
+  background-color: grey;
+}
+
+span ~ span > u {
+  background-color: green;
+  color: white;
+}
+p span.info {
+  color: blue;
+  font-weight: bold;
+}
+.info ~ u {
+  border: solid;
+}
+html > head ~ body > p > i ~ span > u {
+  font-size: 33px;
+}
+#vorsicht >  * {
+  text-decoration: underline overline;
+}

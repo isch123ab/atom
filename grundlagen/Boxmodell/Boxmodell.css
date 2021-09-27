@@ -1,0 +1,16 @@
+.eye {
+  background-color: grey;
+  width: 0px;
+  height: 0px;
+  padding: 0px;
+  margin: 150px;
+  border: 25px solid black;
+}
+.eye2{
+  background-color: grey;
+  width: 0px;
+  height: 0px;
+  padding: 0px;
+  margin: #150px;
+  border: 25px solid black;
+}

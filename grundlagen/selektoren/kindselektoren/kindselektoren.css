@@ -1,0 +1,13 @@
+span > b {
+  color: red;
+}
+span > i {
+  background-color: grey;
+}
+html > body > p > span > i {
+  text-decoration: underline;
+}
+html > body > span > i {
+  background-color: grey;
+  color: white;
+}

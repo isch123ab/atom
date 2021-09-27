@@ -1,0 +1,9 @@
+div {
+  background-color: grey;
+  width: 250px;
+  height: 250px;
+  margin-bottom: 20px;
+}
+#border1 {
+  border: solid;
+}

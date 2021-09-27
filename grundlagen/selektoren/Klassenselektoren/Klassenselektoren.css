@@ -1,0 +1,17 @@
+body{
+  color: green;
+}
+
+.red {
+  color: red;
+
+}
+.ul {
+  text-decoration: underline;
+}
+p.red {
+  font-weight:bold
+}
+p.ul {
+  background-color: grey
+}

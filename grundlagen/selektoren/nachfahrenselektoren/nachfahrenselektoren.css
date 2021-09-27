@@ -1,0 +1,9 @@
+p b {
+  background-color: grey;
+}
+span i {
+  background-color: red;
+}
+body >span i {
+  color: white;
+}
