@@ -1,0 +1,18 @@
+html {
+  background-color:grey;
+  color:white;
+}
+h2 {
+  background-color:black;
+  color:red;
+  text-decoration:underline;
+}
+h3 {
+  front-size:39px;
+}
+p {
+  font-size:22px;
+}
+span {
+  font-weight:bold;
+}

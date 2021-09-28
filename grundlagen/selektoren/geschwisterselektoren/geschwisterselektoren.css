@@ -1,0 +1,13 @@
+b ~ u {
+  color: blue;
+}
+i ~ u {
+  border: solid;
+}
+i ~ i {
+  font-size: 22px;
+}
+i~b {
+  background-color: green;
+  color: white;
+}

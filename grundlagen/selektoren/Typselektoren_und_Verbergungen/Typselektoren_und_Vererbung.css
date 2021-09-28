@@ -1,0 +1,13 @@
+body{
+  color: blue;
+}
+p{
+  color: green;
+  border:solid;
+}
+span {
+  color:black;
+}
+i{
+  color: red;
+}
